@@ -1,6 +1,6 @@
 
 ## Connect with me:
-- [LinkedIn](https://linkedin.com/in/catharin-nivitha)
+- [LinkedIn](www.linkedin.com/in/catharin)
 - [Kaggle](https://kaggle.com/catharinnivithap)
 - [HackerRank](https://www.hackerrank.com/nivithacatharin)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/nivithace3ad)
