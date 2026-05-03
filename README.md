@@ -31,6 +31,4 @@ I’m looking to work on challenging applied vision problems in environments whe
 **ML/AI**: PyTorch, ONNX Runtime, Quantization (INT4), YOLOv10, VLMs (Phi-3.5/Qwen), Intent Routing, RAG, and Model Optimization.
 **3D & Spatial**: 3D Systems, Spatial Computing, OpenCV, Multi-view Geometry, Real-time Tracking, and Edge-AI Deployment.
 
-## Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=catharin-05&show_icons=true&locale=en&layout=compact)
 
